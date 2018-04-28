@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id">btn</item>
+    <item name="viewPager" type="id">view</item>
+    <item name="navigation_user" type="id">nav</item>
+    <item name="navigation" type="id">navi</item>
+    <item name="navigation_dashboard" type="id">nav2</item>
+    <item name="toolbar" type="id">toolbar</item>
+    <item name="rootLayout" type="id">root</item>
+    <item name="spinnerbranch" type="id">branch</item>
+    <item name="spinnerroll" type="id">roll</item>
+    <item name="main_frame" type="id">main</item>
+    <item name="nav_dashboard" type="id">main</item>
+</resources>

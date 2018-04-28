@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_notification"
+        tools:icon="@drawable/noti"
+        android:title="Notification" />
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/board"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_profile_1"
+        android:icon="@drawable/user_1"
+
+
+        android:title="Profile" />
+</menu>

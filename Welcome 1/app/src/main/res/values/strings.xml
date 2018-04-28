@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="title_activity_xpress">XpressActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="register_here">Register Here</string>
+    <string name="login">Login</string>
+    <string name="your_future_is_created_by_what_you_do_today_not_tomorrow_if_you_focus_on_results_you_will_never_change_if_you_focus_on_change_you_will_get_results">Your future is created by what you do today not tomorrow If you focus on results, you will never change. If you focus on change you will get Results</string>
+    <string name="welcome_to_collegexpress">Welcome to CollegeXpress</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashbord">Dashbord</string>
+    <string name="home">Home</string>
+
+
+    <string name="schedule">schedule</string>
+    <string name="user">User</string>
+
+    <string name="time_table">Time-Table</string>
+    <string name="title_user">user</string>
+    <string name="title_dashboard">dashbord</string>
+    <string name="title_timetable">timetable</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="teacher_profile">Teacher-Profile</string>
+    <string name="get_in_touch_with_your_teacher">Get In Touch with Your Teacher</string>
+    <string name="syllabus">Syllabus</string>
+
+    <string name="attendence">Attendence</string>
+    <string name="_75_is_madatory">75% is madatory</string>
+    <string name="notes">Notes</string>
+    <string name="semester_notes">Semester Notes</string>
+    <string name="notice">notice</string>
+    <string name="always_check_this">check</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_use">UseActivity</string>
+
+</resources>
